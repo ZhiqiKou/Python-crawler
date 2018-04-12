@@ -1,14 +1,6 @@
 # Python-crawler
 
 从零开始系统化的学习写Python爬虫。   
-主要是记录一下自己写Python爬虫的经过与心得。   
-同时也是为了分享一下如何能更高效率的学习写爬虫。    
-IDE：Vscode    Python版本: 3.6   
-
-每天的学习记录都会 同步更新到：
-* 微信公众号： findyourownway
-* 知乎专栏：https://zhuanlan.zhihu.com/Ehco-python
-* blog ： www.ehcoblog.ml
 
 详细学习路径：
 ### 一：Beautiful Soup 爬虫
